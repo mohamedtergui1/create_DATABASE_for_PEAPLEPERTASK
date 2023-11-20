@@ -1,1 +1,4 @@
-# create_DATABASE_for_PEAPLEPERTASK
+# Database Schema
+# create DATABASE
+# Class Diagrams
+# Use Case Diagrams
